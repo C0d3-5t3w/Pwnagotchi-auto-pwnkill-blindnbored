@@ -7,7 +7,7 @@ main.plugins.auto_pwnkill_blindnbored.enabled = true
 
 # Add this amonst the other repository links in your config.toml:
 
-https://github.com/C0d3-5t3w/Pwangotchi-auto-pwnkill-blindnbored/archive/refs/heads/main.zip
+https://github.com/C0d3-5t3w/Pwnagotchi-auto-pwnkill-blindnbored/archive/refs/heads/main.zip
 
 # ENJOY!!! if you have any issues find and @ me in the pwnagotchi unofficial discord: https://discord.gg/wBgZPn6M
 
